@@ -14,5 +14,7 @@ To engineer a dynamic, live-updating market monitoring system that automates ris
 2. **Transformation:** Data is cleaned and formatted; volatility is calculated as a percentage of 24h change.
 3. **Load:** The "Risk Dashboard" uses `XLOOKUP` to allow users to toggle between coins and see live risk ratings.
 
-## 📊 Dashboard Preview
-*(Insert a screenshot here once you finish the visual part!!)*
+## Local Deployment & Usage
+1. Clone this repository to your local machine:
+   ```bash
+   git clone [https://github.com/D-Free33/Crypto-Market-Risk-Engine.git](https://github.com/D-Free33/Crypto-Market-Risk-Engine.git)
